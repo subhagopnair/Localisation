@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string name="tvChoice">Who do you want? </string>
+    <string name="Dad">Dad</string>
+    <string name="Mother">Mother</string>
+    <string name="Son">Son</string>
+    <string name="Daughter">Daughter</string>
+    <string name="Pause">Pause</string>
+    <string-array name="Family">
+        <item>@string/Dad</item>
+        <item>@string/Mother</item>
+        <item>@string/Son</item>
+        <item>@string/Daughter</item>
+    </string-array>
+</resources>

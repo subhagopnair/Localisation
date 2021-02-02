@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language</string>
+    <string name="tvChoice">ആരെ വേണം?</string>
+    <string name="Mother">അമ്മ</string>
+    <string name="Son">മകൻ </string>
+    <string name="Daughter">മകൾ</string>
+    <string name="Dad">അച്ഛൻ </string>
+    <string name="Pause">നിർത്തു</string>
+</resources>
