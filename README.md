@@ -1,1 +1,1 @@
-# Localisation
+This is a simple app to undestand how localization work in Android. Two languages are supported - malayalam and  english. This app shows how to choose a language and change the view of the app based on the selected language. App configures the locale  (like 'en' for English, 'ml' for malayalam),based on the language selected at Run time. 
